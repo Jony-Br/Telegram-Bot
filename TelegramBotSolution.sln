@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{A2AC5029-C47D-4863-B539-99032D1A7BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{333DA8C4-1421-4B3D-8079-5611938800F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot", "TelegramBot\TelegramBot.csproj", "{637F5A5D-CD62-464A-8058-506EF8440FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AC5029-C47D-4863-B539-99032D1A7BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AC5029-C47D-4863-B539-99032D1A7BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AC5029-C47D-4863-B539-99032D1A7BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AC5029-C47D-4863-B539-99032D1A7BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333DA8C4-1421-4B3D-8079-5611938800F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333DA8C4-1421-4B3D-8079-5611938800F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333DA8C4-1421-4B3D-8079-5611938800F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333DA8C4-1421-4B3D-8079-5611938800F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637F5A5D-CD62-464A-8058-506EF8440FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637F5A5D-CD62-464A-8058-506EF8440FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637F5A5D-CD62-464A-8058-506EF8440FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637F5A5D-CD62-464A-8058-506EF8440FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A7EAC4-DBD9-4851-8493-CB64A4434F21}
+	EndGlobalSection
+EndGlobal
